@@ -1,0 +1,31 @@
+{
+	"name": "Block",
+	"plugin-id": "TiledBg",
+	"sid": 674842029984893,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "solid",
+			"name": "Solid",
+			"sid": 173795052899773
+		},
+		{
+			"behaviorId": "Bullet",
+			"name": "Bullet",
+			"sid": 966853020477106
+		}
+	],
+	"effectTypes": [],
+	"image": {
+		"width": 25,
+		"height": 25,
+		"originX": 0.5,
+		"originY": 0.5,
+		"originalSource": "",
+		"exportFormat": "png",
+		"exportQuality": 0.8,
+		"imageSpriteId": 9606268,
+		"useCollisionPoly": true
+	}
+}
