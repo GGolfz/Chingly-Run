@@ -46,7 +46,7 @@
 							]
 						},
 						"useCollisionPoly": true,
-						"duration": 1
+						"duration": 2
 					},
 					{
 						"width": 618,
@@ -78,7 +78,7 @@
 							]
 						},
 						"useCollisionPoly": true,
-						"duration": 1
+						"duration": 2
 					}
 				],
 				"sid": 997232392429168,
