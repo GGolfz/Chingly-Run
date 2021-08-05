@@ -1,6 +1,6 @@
 {
-	"name": "Endless runner template",
-	"short_name": "Endless runner template",
+	"name": "Chingly Run",
+	"short_name": "Chingly Run",
 	"description": "",
 	"start_url": "index.html",
 	"display": "fullscreen",
